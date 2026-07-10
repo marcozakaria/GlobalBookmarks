@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 487f2f0924614e5fb2386477838191c0, type: 3}
+  m_Name: GlobalBookmarks
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::GlobalBookmarks.GlobalBookmarksData
+  bookmarks:
+  - name: GlobalBookmarks
+    globalObjectIdString: GlobalObjectId_V1-1-794b206c7fbd82f42b24f4dfa8cbe009-102900000-0
+    type: 4
+  - name: GlobalBookmarks
+    globalObjectIdString: GlobalObjectId_V1-1-3cb4cf9613a142009125e34813b1ce21-11500000-0
+    type: 7
+  - name: GlobalBookmarks
+    globalObjectIdString: GlobalObjectId_V1-3-b175be3126254924c9c4ee5bab1d9e93-11400000-0
+    type: 8
+  - name: InputSystem_Actions
+    globalObjectIdString: GlobalObjectId_V1-1-2bcd2660ca9b64942af0de543d8d7100-17502115434096073164-0
+    type: 8
+  - name: UniversalRenderPipelineGlobalSettings
+    globalObjectIdString: GlobalObjectId_V1-3-93b439a37f63240aca3dd4e01d978a9f-11400000-0
+    type: 8
+  - name: DefaultVolumeProfile
+    globalObjectIdString: GlobalObjectId_V1-3-3f9215ea0144899419cfbc0957140d3f-11400000-0
+    type: 8
+  - name: Scripts
+    globalObjectIdString: GlobalObjectId_V1-1-0f1810bb22ba55e4db46f0f8628ade57-102900000-0
+    type: 4
+  - name: SampleScene
+    globalObjectIdString: GlobalObjectId_V1-1-8c9cfa26abfee488c85f1582747f6a02-102900000-0
+    type: 0
+  - name: Lit2DSceneTemplate
+    globalObjectIdString: GlobalObjectId_V1-3-d03ed43fc9d8a4f2e9fa70c1c7916eb9-11400000-0
+    type: 8
+  - name: UniversalRP
+    globalObjectIdString: GlobalObjectId_V1-3-681886c5eb7344803b6206f758bf0b1c-11400000-0
+    type: 8

@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="asset-store-tools-editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+</Solution>
